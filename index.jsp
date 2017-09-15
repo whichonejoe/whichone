@@ -1,6 +1,7 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>    
+	test
   <%@include file="/admin/pages/include/head.jsp" %>
   <link href="<%=request.getContextPath() %>/admin/css/index.css" rel="stylesheet" type="text/css"/>
 </head>
