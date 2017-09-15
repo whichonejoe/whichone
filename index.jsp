@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <html>
 <head>    
-	test
+	testwqewqe
   <%@include file="/admin/pages/include/head.jsp" %>
   <link href="<%=request.getContextPath() %>/admin/css/index.css" rel="stylesheet" type="text/css"/>
 </head>
