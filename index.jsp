@@ -13,7 +13,7 @@
 <div class="wrapper">
   <header class="main-header">
     <%@include file="/admin/pages/include/header.jsp" %> 
-  </header>
+  </header>ff
   <!-- Left side column. contains the logo and sidebar -->  
   <aside class="main-sidebar">
     <%@include file="/admin/pages/include/left_menu.jsp" %> 
